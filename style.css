@@ -1,1 +1,146 @@
+.legs {
+position: absolute;
+top: 225px;
+left: 490px;
+background-color: #1A0E89;
+height: 80px;
+width:60px;
+
+}
+
+.body {
+position: absolute;
+top: 145px;
+left: 490px;
+background-color: #0089A3;
+height: 80px;
+width: 60px;
+}
+.shoulder1 {
+position: absolute;
+top: 145px;
+left: 460px;
+background-color: #0089A3;
+height: 30px;
+width: 30px;
+}
+.shoulder2 {
+position: absolute;
+top: 145px;
+left: 550px;
+background-color: #0089A3;
+height: 30px;
+width: 30px;
+}
+.shoes {
+position: absolute;
+top: 305px;
+left: 490px;
+background-color: #5E5E5E;
+height: 16px;
+width: 60px;
+}
+.hand1 {
+position: absolute;
+top: 175px;
+left: 460px;
+background-color: #C79375;
+height: 50px;
+width: 30px;
+}
+.hand2 {
+position: absolute;
+top: 175px;
+left: 550px;
+background-color: #C79375;
+height: 50px;
+width: 30px;
+}
+.head {
+position: absolute;
+top: 95px;
+left: 490px;
+background-color: #C79375;
+height: 50px;
+width: 60px;
+}
+.hair {
+position: absolute;
+top: 82px;
+left: 490px;
+background-color: #360601;
+height: 13px;
+width: 60px;
+}
+.beard {
+position: absolute;
+top: 130px;
+left: 505px;
+background-color: #360601;
+height: 15px;
+width: 30px;
+}
+.eye-white1 {
+position: absolute;
+top: 107px;
+left: 495px;
+background-color: white;
+height: 10px;
+width: 10px;
+}
+.eye-blue1 {
+position: absolute;
+top: 107px;
+left: 505px;
+background-color: #1A0E89;
+height: 10px;
+width: 10px;
+}
+.eye-white2 {
+position: absolute;
+top: 107px;
+left: 535px;
+background-color: white;
+height: 10px;
+width: 10px;
+}
+.eye-blue2 {
+position: absolute;
+top: 107px;
+left: 525px;
+background-color: #1A0E89;
+height: 10px;
+width: 10px;
+}
+.lips {
+position: absolute;
+top: 135px;
+left: 511px;
+background-color: #A95E38;
+height: 5px;
+width: 18px;
+}
+.text-1 {
+color: white;
+font-size: 30px;
+font-family: arial;
+}
+.text-2 {
+position: absolute;
+top: 400px;
+left: 0px;
+color: white;
+font-size: 30px;
+font-family: arial;
+}
+.img {
+position: absolute;
+top: 500px;
+left: 450px;
+}
+body {
+
+
+background: #1C1C1C;
+}
 
